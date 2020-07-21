@@ -8,6 +8,7 @@ class Landing extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img
+                            class="img-fluid"
                             src="https://avatars0.githubusercontent.com/u/37027181?s=460&u=4723e2a3cab54fd90eaae4a1a3913037af2d4f74&v=4"
                             alt="avatar"
                             className="avatar-img"

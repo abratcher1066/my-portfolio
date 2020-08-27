@@ -79,7 +79,8 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 
 .avatar-img {
   height: 250px;
-  padding-top: 5em;
+  border: 5px solid #555;
+  border-radius: 50%;
 }
 
 .banner-text {
@@ -121,4 +122,8 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   color: white;
   font-size: 5em;
   padding: 8px;
+}
+
+.about-me {
+  font-size: 9em;
 }
